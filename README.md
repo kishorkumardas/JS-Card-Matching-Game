@@ -3,4 +3,4 @@
 # Playing Rules 
   1.
 
-<a href="https://kishorkumardas.github.io/JS-Card-Matching-Game/">Play Game </a>
+<a href="http://kishor.xyz/Work/JS-DOM-Matches/" target="blank">Play Game </a>
