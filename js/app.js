@@ -1,5 +1,5 @@
 var cardsArray = [
-    {    'name': 'CSS',    'img': 'https://github.com/kishorkumardas/JS-Card-Matching-Game/blob/master/img/css3-logo.png'  },
+    {    'name': 'CSS',    'img': '../img/html5-logo.png' '  },
     {    'name': 'HTML',    'img': '../img/html5-logo.png'  },
     {    'name': 'jQuery',    'img': 'JS-Card-Matching-Game/img/jquery-logo.png'},
     {    'name': 'JS',    'img': '../img/js-logo.png' },
